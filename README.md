@@ -133,20 +133,6 @@ The system performs:
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots here:
-
-```markdown
-![Home Page](screenshots/home-page.png)
-
-![Product Analysis](screenshots/product-analysis.png)
-
-![Customer Reviews](screenshots/reviews.png)
-```
-
----
-
 ## 🔮 Future Enhancements
 
 - 🤖 AI-based product recommendation system
